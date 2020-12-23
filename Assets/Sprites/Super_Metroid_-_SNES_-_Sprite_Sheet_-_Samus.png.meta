@@ -7,19 +7,19 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_0
   - first:
       213: -1620646190673645854
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_1
+    second: idle0
   - first:
       213: 1027015064823944782
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_2
+    second: idle1
   - first:
       213: -6387154639166512863
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_3
+    second: idle2
   - first:
       213: -8348544412528294128
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_4
+    second: idle3
   - first:
       213: -4378552293653490368
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_5
+    second: idle4
   - first:
       213: 8382223624140623633
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_6
@@ -157,19 +157,19 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_50
   - first:
       213: 217597430747889629
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_51
+    second: idleL
   - first:
       213: 7699806210524552777
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_52
+    second: idleL1
   - first:
       213: 4586822378539299727
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_53
+    second: idleL2
   - first:
       213: 737728017677680215
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_54
+    second: idleL3
   - first:
       213: -196946014599242177
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_55
+    second: idleL4
   - first:
       213: -8446826110708867830
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_56
@@ -259,19 +259,19 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_84
   - first:
       213: 5042952199069919389
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_85
+    second: jump
   - first:
       213: 1788344956617009790
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_86
+    second: jump1
   - first:
       213: 3746202711437606960
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_87
+    second: jump2
   - first:
       213: 3550280223049359722
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_88
+    second: jump3
   - first:
       213: 2241908796660640858
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_89
+    second: jump4
   - first:
       213: 3330485190102334854
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_90
@@ -298,7 +298,7 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_97
   - first:
       213: 5528774127161358056
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_98
+    second: up
   - first:
       213: 2843921353761077771
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_99
@@ -337,40 +337,40 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_110
   - first:
       213: 6302824087053398816
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_111
+    second: jumpdown
   - first:
       213: 1312262064633788461
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_112
+    second: firedown
   - first:
       213: 6133631086282199324
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_113
   - first:
       213: -5885062687713880954
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_114
+    second: spinjump0
   - first:
       213: -3899411561195760492
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_115
+    second: spinjump1
   - first:
       213: -1045245486316042481
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_116
+    second: spinjump2
   - first:
       213: -780662269245173885
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_117
+    second: spinjump3
   - first:
       213: -6434325221828442175
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_118
+    second: spinjump4
   - first:
       213: 69071366044111423
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_119
+    second: spinjump5
   - first:
       213: 761797832046022796
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_120
+    second: spinjump6
   - first:
       213: 3669562889868985265
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_121
+    second: spinjump7
   - first:
       213: 7286121677221372920
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_122
+    second: spinjump8
   - first:
       213: -545425674102004710
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_123
@@ -397,7 +397,7 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_130
   - first:
       213: -1905857431977055431
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_131
+    second: standingleftdiagup
   - first:
       213: -3676537039758762986
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_132
@@ -430,19 +430,19 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_141
   - first:
       213: -3707185371610447854
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_142
+    second: crouchL
   - first:
       213: -970727948741699407
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_143
+    second: crouchL1
   - first:
       213: 782184454832045753
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_144
+    second: crouchL2
   - first:
       213: -442677375767628894
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_145
+    second: crouchL3
   - first:
       213: -7856919397886024957
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_146
+    second: crouchL4
   - first:
       213: 634066889061849771
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_147
@@ -517,37 +517,37 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_170
   - first:
       213: 4939999830489129448
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_171
+    second: runleftup
   - first:
       213: -8977534882497687403
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_172
+    second: runleftup1
   - first:
       213: 9155417106652191999
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_173
+    second: runleftup2
   - first:
       213: -2508823864396890131
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_174
+    second: runleftup3
   - first:
       213: 9203461212839914604
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_175
+    second: runleftup4
   - first:
       213: 5368694794934033124
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_176
+    second: runleft up 5
   - first:
       213: 6359463568364247410
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_177
+    second: runleftup6
   - first:
       213: 8515188284476792501
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_178
+    second: runleftup7
   - first:
       213: -9066689141570808476
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_179
+    second: runleftup8
   - first:
       213: -8093233656249543351
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_180
+    second: runleftup9
   - first:
       213: -7061389596439516498
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_181
+    second: runleftup10
   - first:
       213: 191345391375714489
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_182
@@ -568,7 +568,7 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_187
   - first:
       213: 3605064492797735043
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_188
+    second: standingrigthdiagdown
   - first:
       213: 4343433785616964247
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_189
@@ -577,7 +577,7 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_190
   - first:
       213: -237040287696715983
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_191
+    second: standingrigthdiagup
   - first:
       213: 774343805682184782
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_192
@@ -586,7 +586,7 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_193
   - first:
       213: 1153197026011518597
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_194
+    second: standingleftdiagdown
   - first:
       213: 8109663612876747221
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_195
@@ -595,49 +595,49 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_196
   - first:
       213: 5845289204893209278
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_197
+    second: runleftdown
   - first:
       213: 7299798456493274853
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_198
+    second: runleftdown1
   - first:
       213: -7233902717725342376
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_199
+    second: runleftdown2
   - first:
       213: -1561871392972309590
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_200
+    second: runleftdown3
   - first:
       213: 4432105375058699203
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_201
+    second: runleftdown4
   - first:
       213: -2196502251088932402
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_202
+    second: runleftdown5
   - first:
       213: 2801102010171552338
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_203
+    second: runleftdown6
   - first:
       213: -3980714887647523842
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_204
+    second: runleftdown7
   - first:
       213: 2611885517258936369
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_205
+    second: runleftdown8
   - first:
       213: -4917173654777065681
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_206
+    second: runleftdown9
   - first:
       213: 6014114478206995625
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_207
+    second: runleftdow10
   - first:
       213: 4056691567431011302
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_208
   - first:
       213: 8504655375119092885
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_209
+    second: jumpupright
   - first:
       213: -4776268804617415807
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_210
   - first:
       213: 5819424180094658828
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_211
+    second: jumpdownright
   - first:
       213: 4371949498882704832
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_212
@@ -679,70 +679,70 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_224
   - first:
       213: -2456847537276575965
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_225
+    second: runleft
   - first:
       213: -6970548376008312440
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_226
+    second: runleft1
   - first:
       213: -5201630656917701389
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_227
+    second: runleft3
   - first:
       213: -6590350372398431803
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_228
+    second: runleft4
   - first:
       213: -8047921739464894132
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_229
+    second: runleft5
   - first:
       213: -368686199474707671
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_230
+    second: runleft6
   - first:
       213: 4036101991955515755
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_231
+    second: runleft7
   - first:
       213: 3106738981755654400
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_232
+    second: runleft8
   - first:
       213: 2614882297078603858
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_233
+    second: runleft9
   - first:
       213: 1064200737438361390
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_234
+    second: runleft10
   - first:
       213: 7459788007584270502
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_235
+    second: runrightup
   - first:
       213: -2115000119684785517
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_236
+    second: runrigthup1
   - first:
       213: 6816784159843185585
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_237
+    second: runrightup2
   - first:
       213: -8449900217586773294
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_238
+    second: runrightup3
   - first:
       213: -1298700031764560135
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_239
+    second: runrightup4
   - first:
       213: -8656649172816239771
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_240
+    second: runrigthup5
   - first:
       213: -2395242447453441117
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_241
+    second: runrightup6
   - first:
       213: -935329968082203192
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_242
+    second: runrightup7
   - first:
       213: 536439417268215838
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_243
+    second: runrightup8
   - first:
       213: 7968457191408584791
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_244
+    second: runrightup9
   - first:
       213: 2041761530451267432
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_245
+    second: runrightup10
   - first:
       213: -400141940508988377
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_246
+    second: runrightup11
   - first:
       213: -4015277735861559915
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_247
@@ -754,70 +754,70 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_249
   - first:
       213: 3439022410436032519
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_250
+    second: runright
   - first:
       213: -3382183421956097931
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_251
+    second: runright1
   - first:
       213: -5482448531945904138
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_252
+    second: runright2
   - first:
       213: 7216554255735074233
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_253
+    second: runright3
   - first:
       213: -6501028646679783764
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_254
+    second: runright4
   - first:
       213: -6328882425936888800
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_255
+    second: runright5
   - first:
       213: -5633223854259336659
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_256
+    second: runright6
   - first:
       213: 7127894753477159318
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_257
+    second: runright7
   - first:
       213: 5079081947228885523
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_258
+    second: runright8
   - first:
       213: -882860533469501769
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_259
+    second: runright9
   - first:
       213: -1304908420601284698
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_260
+    second: runright10
   - first:
       213: 4026308120671447821
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_261
+    second: runrigthdown
   - first:
       213: -2267794377133003053
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_262
+    second: runrightdown1
   - first:
       213: 1421529060025103439
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_263
+    second: runrightdown2
   - first:
       213: 1315981138732749816
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_264
+    second: runrightdown3
   - first:
       213: 4970410737145772006
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_265
+    second: runrightdown4
   - first:
       213: 8492286451786975068
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_266
+    second: runrightdown5
   - first:
       213: -1390976236139533211
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_267
+    second: runrightdown6
   - first:
       213: 3198001313575321021
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_268
+    second: runrightdown7
   - first:
       213: 3185582761087486472
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_269
+    second: runrightdown8
   - first:
       213: -7084377111285164728
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_270
+    second: runrightdown9
   - first:
       213: -8532003434341539033
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_271
+    second: runrightdown10
   - first:
       213: 4347175702409466626
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_272
@@ -977,7 +977,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_1
+      name: idle0
       rect:
         serializedVersion: 2
         x: 45
@@ -998,7 +998,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_2
+      name: idle1
       rect:
         serializedVersion: 2
         x: 80
@@ -1019,7 +1019,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_3
+      name: idle2
       rect:
         serializedVersion: 2
         x: 112
@@ -1040,7 +1040,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_4
+      name: idle3
       rect:
         serializedVersion: 2
         x: 144
@@ -1061,7 +1061,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_5
+      name: idle4
       rect:
         serializedVersion: 2
         x: 181
@@ -1174,7 +1174,7 @@ TextureImporter:
         width: 10
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1796,7 +1796,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_51
+      name: idleL
       rect:
         serializedVersion: 2
         x: 111
@@ -1817,7 +1817,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_52
+      name: idleL1
       rect:
         serializedVersion: 2
         x: 140
@@ -1838,7 +1838,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_53
+      name: idleL2
       rect:
         serializedVersion: 2
         x: 169
@@ -1859,7 +1859,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_54
+      name: idleL3
       rect:
         serializedVersion: 2
         x: 203
@@ -1880,7 +1880,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_55
+      name: idleL4
       rect:
         serializedVersion: 2
         x: 231
@@ -2489,7 +2489,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_85
+      name: jump
       rect:
         serializedVersion: 2
         x: 317
@@ -2510,7 +2510,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_86
+      name: jump1
       rect:
         serializedVersion: 2
         x: 350
@@ -2531,7 +2531,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_87
+      name: jump2
       rect:
         serializedVersion: 2
         x: 383
@@ -2552,7 +2552,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_88
+      name: jump3
       rect:
         serializedVersion: 2
         x: 412
@@ -2573,7 +2573,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_89
+      name: jump4
       rect:
         serializedVersion: 2
         x: 443
@@ -2762,7 +2762,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_98
+      name: up
       rect:
         serializedVersion: 2
         x: 778
@@ -3035,7 +3035,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_111
+      name: jumpdown
       rect:
         serializedVersion: 2
         x: 271
@@ -3056,7 +3056,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_112
+      name: firedown
       rect:
         serializedVersion: 2
         x: 303
@@ -3098,7 +3098,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_114
+      name: spinjump0
       rect:
         serializedVersion: 2
         x: 373
@@ -3119,7 +3119,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_115
+      name: spinjump1
       rect:
         serializedVersion: 2
         x: 404
@@ -3140,7 +3140,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_116
+      name: spinjump2
       rect:
         serializedVersion: 2
         x: 442
@@ -3161,7 +3161,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_117
+      name: spinjump3
       rect:
         serializedVersion: 2
         x: 488
@@ -3182,7 +3182,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_118
+      name: spinjump4
       rect:
         serializedVersion: 2
         x: 537
@@ -3203,7 +3203,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_119
+      name: spinjump5
       rect:
         serializedVersion: 2
         x: 560
@@ -3224,7 +3224,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_120
+      name: spinjump6
       rect:
         serializedVersion: 2
         x: 590
@@ -3245,7 +3245,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_121
+      name: spinjump7
       rect:
         serializedVersion: 2
         x: 631
@@ -3266,7 +3266,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_122
+      name: spinjump8
       rect:
         serializedVersion: 2
         x: 672
@@ -3455,7 +3455,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_131
+      name: standingleftdiagup
       rect:
         serializedVersion: 2
         x: 983
@@ -3686,7 +3686,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_142
+      name: crouchL
       rect:
         serializedVersion: 2
         x: 387
@@ -3707,7 +3707,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_143
+      name: crouchL1
       rect:
         serializedVersion: 2
         x: 419
@@ -3728,7 +3728,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_144
+      name: crouchL2
       rect:
         serializedVersion: 2
         x: 447
@@ -3749,7 +3749,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_145
+      name: crouchL3
       rect:
         serializedVersion: 2
         x: 476
@@ -3770,10 +3770,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_146
+      name: crouchL4
       rect:
         serializedVersion: 2
-        x: 504
+        x: 503
         y: 321
         width: 21
         height: 32
@@ -4295,7 +4295,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_171
+      name: runleftup
       rect:
         serializedVersion: 2
         x: 568
@@ -4316,7 +4316,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_172
+      name: runleftup1
       rect:
         serializedVersion: 2
         x: 607
@@ -4337,7 +4337,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_173
+      name: runleftup2
       rect:
         serializedVersion: 2
         x: 652
@@ -4358,7 +4358,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_174
+      name: runleftup3
       rect:
         serializedVersion: 2
         x: 702
@@ -4379,7 +4379,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_175
+      name: runleftup4
       rect:
         serializedVersion: 2
         x: 741
@@ -4400,7 +4400,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_176
+      name: runleft up 5
       rect:
         serializedVersion: 2
         x: 776
@@ -4421,7 +4421,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_177
+      name: runleftup6
       rect:
         serializedVersion: 2
         x: 812
@@ -4442,7 +4442,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_178
+      name: runleftup7
       rect:
         serializedVersion: 2
         x: 854
@@ -4463,11 +4463,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_179
+      name: runleftup8
       rect:
         serializedVersion: 2
         x: 900
-        y: 253
+        y: 254
         width: 36
         height: 48
       alignment: 0
@@ -4484,7 +4484,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_180
+      name: runleftup9
       rect:
         serializedVersion: 2
         x: 943
@@ -4505,7 +4505,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_181
+      name: runleftup10
       rect:
         serializedVersion: 2
         x: 975
@@ -4652,7 +4652,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_188
+      name: standingrigthdiagdown
       rect:
         serializedVersion: 2
         x: 217
@@ -4715,7 +4715,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_191
+      name: standingrigthdiagup
       rect:
         serializedVersion: 2
         x: 351
@@ -4778,7 +4778,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_194
+      name: standingleftdiagdown
       rect:
         serializedVersion: 2
         x: 478
@@ -4841,7 +4841,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_197
+      name: runleftdown
       rect:
         serializedVersion: 2
         x: 592
@@ -4862,7 +4862,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_198
+      name: runleftdown1
       rect:
         serializedVersion: 2
         x: 628
@@ -4883,7 +4883,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_199
+      name: runleftdown2
       rect:
         serializedVersion: 2
         x: 666
@@ -4904,7 +4904,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_200
+      name: runleftdown3
       rect:
         serializedVersion: 2
         x: 711
@@ -4925,7 +4925,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_201
+      name: runleftdown4
       rect:
         serializedVersion: 2
         x: 756
@@ -4946,7 +4946,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_202
+      name: runleftdown5
       rect:
         serializedVersion: 2
         x: 797
@@ -4967,7 +4967,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_203
+      name: runleftdown6
       rect:
         serializedVersion: 2
         x: 833
@@ -4988,11 +4988,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_204
+      name: runleftdown7
       rect:
         serializedVersion: 2
         x: 872
-        y: 193
+        y: 194
         width: 33
         height: 43
       alignment: 0
@@ -5009,7 +5009,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_205
+      name: runleftdown8
       rect:
         serializedVersion: 2
         x: 922
@@ -5030,7 +5030,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_206
+      name: runleftdown9
       rect:
         serializedVersion: 2
         x: 966
@@ -5051,7 +5051,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_207
+      name: runleftdow10
       rect:
         serializedVersion: 2
         x: 1006
@@ -5093,7 +5093,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_209
+      name: jumpupright
       rect:
         serializedVersion: 2
         x: 26
@@ -5135,7 +5135,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_211
+      name: jumpdownright
       rect:
         serializedVersion: 2
         x: 122
@@ -5429,7 +5429,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_225
+      name: runleft
       rect:
         serializedVersion: 2
         x: 651
@@ -5450,7 +5450,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_226
+      name: runleft1
       rect:
         serializedVersion: 2
         x: 688
@@ -5471,7 +5471,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_227
+      name: runleft3
       rect:
         serializedVersion: 2
         x: 732
@@ -5492,7 +5492,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_228
+      name: runleft4
       rect:
         serializedVersion: 2
         x: 782
@@ -5513,7 +5513,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_229
+      name: runleft5
       rect:
         serializedVersion: 2
         x: 822
@@ -5534,11 +5534,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_230
+      name: runleft6
       rect:
         serializedVersion: 2
         x: 856
-        y: 137
+        y: 138
         width: 33
         height: 43
       alignment: 0
@@ -5555,7 +5555,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_231
+      name: runleft7
       rect:
         serializedVersion: 2
         x: 890
@@ -5576,7 +5576,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_232
+      name: runleft8
       rect:
         serializedVersion: 2
         x: 930
@@ -5597,7 +5597,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_233
+      name: runleft9
       rect:
         serializedVersion: 2
         x: 970
@@ -5618,7 +5618,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_234
+      name: runleft10
       rect:
         serializedVersion: 2
         x: 1008
@@ -5639,7 +5639,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_235
+      name: runrightup
       rect:
         serializedVersion: 2
         x: 26
@@ -5660,7 +5660,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_236
+      name: runrigthup1
       rect:
         serializedVersion: 2
         x: 66
@@ -5681,7 +5681,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_237
+      name: runrightup2
       rect:
         serializedVersion: 2
         x: 106
@@ -5702,7 +5702,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_238
+      name: runrightup3
       rect:
         serializedVersion: 2
         x: 152
@@ -5723,7 +5723,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_239
+      name: runrightup4
       rect:
         serializedVersion: 2
         x: 201
@@ -5744,7 +5744,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_240
+      name: runrigthup5
       rect:
         serializedVersion: 2
         x: 252
@@ -5765,7 +5765,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_241
+      name: runrightup6
       rect:
         serializedVersion: 2
         x: 287
@@ -5786,11 +5786,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_242
+      name: runrightup7
       rect:
         serializedVersion: 2
         x: 326
-        y: 81
+        y: 82
         width: 30
         height: 48
       alignment: 0
@@ -5807,7 +5807,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_243
+      name: runrightup8
       rect:
         serializedVersion: 2
         x: 365
@@ -5828,11 +5828,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_244
+      name: runrightup9
       rect:
         serializedVersion: 2
         x: 409
-        y: 81
+        y: 80
         width: 37
         height: 48
       alignment: 0
@@ -5849,7 +5849,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_245
+      name: runrightup10
       rect:
         serializedVersion: 2
         x: 466
@@ -5870,7 +5870,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_246
+      name: runrightup11
       rect:
         serializedVersion: 2
         x: 515
@@ -5954,7 +5954,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_250
+      name: runright
       rect:
         serializedVersion: 2
         x: 659
@@ -5975,7 +5975,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_251
+      name: runright1
       rect:
         serializedVersion: 2
         x: 705
@@ -5996,7 +5996,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_252
+      name: runright2
       rect:
         serializedVersion: 2
         x: 755
@@ -6017,7 +6017,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_253
+      name: runright3
       rect:
         serializedVersion: 2
         x: 798
@@ -6038,7 +6038,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_254
+      name: runright4
       rect:
         serializedVersion: 2
         x: 833
@@ -6059,7 +6059,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_255
+      name: runright5
       rect:
         serializedVersion: 2
         x: 874
@@ -6080,7 +6080,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_256
+      name: runright6
       rect:
         serializedVersion: 2
         x: 922
@@ -6101,7 +6101,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_257
+      name: runright7
       rect:
         serializedVersion: 2
         x: 970
@@ -6122,7 +6122,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_258
+      name: runright8
       rect:
         serializedVersion: 2
         x: 1000
@@ -6143,11 +6143,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_259
+      name: runright9
       rect:
         serializedVersion: 2
         x: 1036
-        y: 81
+        y: 82
         width: 36
         height: 43
       alignment: 0
@@ -6164,7 +6164,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_260
+      name: runright10
       rect:
         serializedVersion: 2
         x: 1085
@@ -6185,7 +6185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_261
+      name: runrigthdown
       rect:
         serializedVersion: 2
         x: 27
@@ -6206,7 +6206,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_262
+      name: runrightdown1
       rect:
         serializedVersion: 2
         x: 69
@@ -6227,7 +6227,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_263
+      name: runrightdown2
       rect:
         serializedVersion: 2
         x: 110
@@ -6248,7 +6248,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_264
+      name: runrightdown3
       rect:
         serializedVersion: 2
         x: 159
@@ -6269,7 +6269,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_265
+      name: runrightdown4
       rect:
         serializedVersion: 2
         x: 203
@@ -6290,7 +6290,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_266
+      name: runrightdown5
       rect:
         serializedVersion: 2
         x: 251
@@ -6311,7 +6311,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_267
+      name: runrightdown6
       rect:
         serializedVersion: 2
         x: 293
@@ -6332,7 +6332,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_268
+      name: runrightdown7
       rect:
         serializedVersion: 2
         x: 335
@@ -6353,10 +6353,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_269
+      name: runrightdown8
       rect:
         serializedVersion: 2
-        x: 386
+        x: 385
         y: 25
         width: 36
         height: 43
@@ -6374,11 +6374,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_270
+      name: runrightdown9
       rect:
         serializedVersion: 2
         x: 438
-        y: 25
+        y: 26
         width: 35
         height: 43
       alignment: 0
@@ -6395,7 +6395,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_271
+      name: runrightdown10
       rect:
         serializedVersion: 2
         x: 495
