@@ -211,7 +211,7 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_68
   - first:
       213: -2158418335768660446
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_69
+    second: jumpshootL
   - first:
       213: -7524254502825135984
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_70
@@ -241,7 +241,7 @@ TextureImporter:
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_78
   - first:
       213: 5128231531387723681
-    second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_79
+    second: jumpshootR
   - first:
       213: 7328676722402563588
     second: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_80
@@ -2153,7 +2153,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_69
+      name: jumpshootL
       rect:
         serializedVersion: 2
         x: 382
@@ -2363,7 +2363,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_79
+      name: jumpshootR
       rect:
         serializedVersion: 2
         x: 108
@@ -6684,6 +6684,27 @@ TextureImporter:
       bones: []
       spriteID: f8618d98f7a96a0b0800000000000000
       internalID: -5717712804336101745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 344
+        width: 118
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c705de949adf5a90800000000000000
+      internalID: -7322894137226360892
       vertices: []
       indices: 
       edges: []

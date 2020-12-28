@@ -21,4 +21,9 @@ public class PlayerProjectile : MonoBehaviour
         Destroy(gameObject, 1f);
         Destroy(gameObject, 1f);
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        Destroy(gameObject);
+    }
 }

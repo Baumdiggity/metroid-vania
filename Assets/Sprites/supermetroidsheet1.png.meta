@@ -1,0 +1,4270 @@
+fileFormatVersion: 2
+guid: b6cf4d5377440234194ff90dd4598a2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4793797325432049871
+    second: supermetroidsheet1_0
+  - first:
+      213: -7129669654728408102
+    second: supermetroidsheet1_1
+  - first:
+      213: 8910490537140074935
+    second: supermetroidsheet1_2
+  - first:
+      213: -650676323514458493
+    second: supermetroidsheet1_3
+  - first:
+      213: 6718299328304234063
+    second: supermetroidsheet1_4
+  - first:
+      213: -324830754917678338
+    second: supermetroidsheet1_5
+  - first:
+      213: 1129085075155746861
+    second: supermetroidsheet1_6
+  - first:
+      213: -4442281169209068570
+    second: supermetroidsheet1_7
+  - first:
+      213: -7626285586351574932
+    second: supermetroidsheet1_8
+  - first:
+      213: 2106817982294011101
+    second: supermetroidsheet1_9
+  - first:
+      213: -367856167809723814
+    second: supermetroidsheet1_10
+  - first:
+      213: 8234099392014592093
+    second: supermetroidsheet1_11
+  - first:
+      213: 1409362445273355062
+    second: supermetroidsheet1_12
+  - first:
+      213: 4236329755233126016
+    second: supermetroidsheet1_13
+  - first:
+      213: -2626737287428257610
+    second: supermetroidsheet1_14
+  - first:
+      213: 6744533929227568358
+    second: supermetroidsheet1_15
+  - first:
+      213: -1929052666118652977
+    second: supermetroidsheet1_16
+  - first:
+      213: 4826304905574409445
+    second: supermetroidsheet1_17
+  - first:
+      213: 2900019110904250283
+    second: supermetroidsheet1_18
+  - first:
+      213: -8643203620101053395
+    second: supermetroidsheet1_19
+  - first:
+      213: 517255800885749326
+    second: supermetroidsheet1_20
+  - first:
+      213: 7360699801248986280
+    second: supermetroidsheet1_21
+  - first:
+      213: 5456002787744222559
+    second: supermetroidsheet1_22
+  - first:
+      213: -5744309559551102085
+    second: supermetroidsheet1_23
+  - first:
+      213: -7919994283296682362
+    second: supermetroidsheet1_24
+  - first:
+      213: -4053116867998331993
+    second: supermetroidsheet1_25
+  - first:
+      213: 1077189636021083786
+    second: supermetroidsheet1_26
+  - first:
+      213: -2384792198468901501
+    second: supermetroidsheet1_27
+  - first:
+      213: 8318496977433824389
+    second: supermetroidsheet1_28
+  - first:
+      213: 31330492677549123
+    second: supermetroidsheet1_29
+  - first:
+      213: -5609312571114710449
+    second: supermetroidsheet1_30
+  - first:
+      213: 4156553428006472866
+    second: supermetroidsheet1_31
+  - first:
+      213: -984120168404246817
+    second: supermetroidsheet1_32
+  - first:
+      213: 7964295559866423811
+    second: supermetroidsheet1_33
+  - first:
+      213: 2320185057206755576
+    second: supermetroidsheet1_34
+  - first:
+      213: 1246457817075007726
+    second: supermetroidsheet1_35
+  - first:
+      213: 7014335378141730096
+    second: supermetroidsheet1_36
+  - first:
+      213: -529375326434587449
+    second: supermetroidsheet1_37
+  - first:
+      213: -942384126408985823
+    second: supermetroidsheet1_38
+  - first:
+      213: 1985089820290589465
+    second: supermetroidsheet1_39
+  - first:
+      213: 1920545505927518885
+    second: supermetroidsheet1_40
+  - first:
+      213: 5159864008142153641
+    second: supermetroidsheet1_41
+  - first:
+      213: 3183886460236270314
+    second: supermetroidsheet1_42
+  - first:
+      213: -7327500059719663252
+    second: supermetroidsheet1_43
+  - first:
+      213: -2642813382879303448
+    second: supermetroidsheet1_44
+  - first:
+      213: 1486669200721431590
+    second: supermetroidsheet1_45
+  - first:
+      213: -2157963075190251861
+    second: supermetroidsheet1_46
+  - first:
+      213: -2800240312917934205
+    second: supermetroidsheet1_47
+  - first:
+      213: 3915044780325574890
+    second: supermetroidsheet1_48
+  - first:
+      213: -2959454724697003505
+    second: supermetroidsheet1_49
+  - first:
+      213: -5863368488889985946
+    second: supermetroidsheet1_50
+  - first:
+      213: 5247533060693093358
+    second: supermetroidsheet1_51
+  - first:
+      213: 831676749173730872
+    second: supermetroidsheet1_52
+  - first:
+      213: 8762856831042735242
+    second: supermetroidsheet1_53
+  - first:
+      213: -6319026925478794168
+    second: supermetroidsheet1_54
+  - first:
+      213: -2828081677999736737
+    second: supermetroidsheet1_55
+  - first:
+      213: 3039670335978974667
+    second: supermetroidsheet1_56
+  - first:
+      213: -750868699074985132
+    second: supermetroidsheet1_57
+  - first:
+      213: -4262971790388744097
+    second: supermetroidsheet1_58
+  - first:
+      213: -7499281152183736938
+    second: supermetroidsheet1_59
+  - first:
+      213: 7169536319530287616
+    second: supermetroidsheet1_60
+  - first:
+      213: -88282586139720848
+    second: supermetroidsheet1_61
+  - first:
+      213: -3039106380380430167
+    second: supermetroidsheet1_62
+  - first:
+      213: -1514747213202187333
+    second: supermetroidsheet1_63
+  - first:
+      213: 1567743789450534542
+    second: supermetroidsheet1_64
+  - first:
+      213: -7971006386775563550
+    second: supermetroidsheet1_65
+  - first:
+      213: 1912826654076860184
+    second: supermetroidsheet1_66
+  - first:
+      213: 999001956622781765
+    second: supermetroidsheet1_67
+  - first:
+      213: -6946281461652194572
+    second: supermetroidsheet1_68
+  - first:
+      213: -7338043429135121481
+    second: supermetroidsheet1_69
+  - first:
+      213: 6870180759580956579
+    second: supermetroidsheet1_70
+  - first:
+      213: -1810523120713822366
+    second: supermetroidsheet1_71
+  - first:
+      213: -1210511585854817363
+    second: supermetroidsheet1_72
+  - first:
+      213: -2857391095677782092
+    second: supermetroidsheet1_73
+  - first:
+      213: 3401981297915650517
+    second: supermetroidsheet1_74
+  - first:
+      213: 6257206073559886975
+    second: supermetroidsheet1_75
+  - first:
+      213: 5440139631612054585
+    second: supermetroidsheet1_76
+  - first:
+      213: 4185508267102142835
+    second: supermetroidsheet1_77
+  - first:
+      213: 2600218106982007342
+    second: supermetroidsheet1_78
+  - first:
+      213: 9002248590641507757
+    second: supermetroidsheet1_79
+  - first:
+      213: -6153237930260043609
+    second: supermetroidsheet1_80
+  - first:
+      213: -5889023526193242346
+    second: supermetroidsheet1_81
+  - first:
+      213: -1584640798059640898
+    second: supermetroidsheet1_82
+  - first:
+      213: 4585676255685998568
+    second: supermetroidsheet1_83
+  - first:
+      213: -1948087451654128828
+    second: supermetroidsheet1_84
+  - first:
+      213: 5585397831875395459
+    second: supermetroidsheet1_85
+  - first:
+      213: -7164312561331145531
+    second: supermetroidsheet1_86
+  - first:
+      213: -7768286714309381971
+    second: supermetroidsheet1_87
+  - first:
+      213: -2281445820216923761
+    second: supermetroidsheet1_88
+  - first:
+      213: -4740149626620237813
+    second: supermetroidsheet1_89
+  - first:
+      213: -6004910564824627698
+    second: supermetroidsheet1_90
+  - first:
+      213: -6471087549767737003
+    second: supermetroidsheet1_91
+  - first:
+      213: 898400461273360729
+    second: supermetroidsheet1_92
+  - first:
+      213: -201584093431391184
+    second: supermetroidsheet1_93
+  - first:
+      213: 5827479812905549397
+    second: supermetroidsheet1_94
+  - first:
+      213: -7327248183967240453
+    second: supermetroidsheet1_95
+  - first:
+      213: 2193434096705622739
+    second: supermetroidsheet1_96
+  - first:
+      213: 5630701004294786517
+    second: supermetroidsheet1_97
+  - first:
+      213: 7109262775453700411
+    second: supermetroidsheet1_98
+  - first:
+      213: -8463243176172269381
+    second: supermetroidsheet1_99
+  - first:
+      213: 1200258237142529964
+    second: supermetroidsheet1_100
+  - first:
+      213: 1800649969174051932
+    second: supermetroidsheet1_101
+  - first:
+      213: -255881371839433553
+    second: supermetroidsheet1_102
+  - first:
+      213: -6183478055619026341
+    second: supermetroidsheet1_103
+  - first:
+      213: -8886256892407729130
+    second: supermetroidsheet1_104
+  - first:
+      213: -3441717639772828064
+    second: supermetroidsheet1_105
+  - first:
+      213: 8845074407669763306
+    second: supermetroidsheet1_106
+  - first:
+      213: -3849367341738901538
+    second: supermetroidsheet1_107
+  - first:
+      213: -8987362797106426510
+    second: supermetroidsheet1_108
+  - first:
+      213: -6833492873059415072
+    second: supermetroidsheet1_109
+  - first:
+      213: 7384668824084190680
+    second: supermetroidsheet1_110
+  - first:
+      213: 714365692090517506
+    second: supermetroidsheet1_111
+  - first:
+      213: -9192994087507893030
+    second: supermetroidsheet1_112
+  - first:
+      213: 5707775343213524784
+    second: supermetroidsheet1_113
+  - first:
+      213: -2342743041971352523
+    second: supermetroidsheet1_114
+  - first:
+      213: -3095905308844988522
+    second: supermetroidsheet1_115
+  - first:
+      213: 383682641367394744
+    second: supermetroidsheet1_116
+  - first:
+      213: 113965545067306169
+    second: supermetroidsheet1_117
+  - first:
+      213: -2334530920536733679
+    second: supermetroidsheet1_118
+  - first:
+      213: 3238101125038660203
+    second: supermetroidsheet1_119
+  - first:
+      213: 4560242768928672263
+    second: supermetroidsheet1_120
+  - first:
+      213: 1069493239634383653
+    second: supermetroidsheet1_121
+  - first:
+      213: 1150451781946990729
+    second: supermetroidsheet1_122
+  - first:
+      213: 5332007167554802465
+    second: supermetroidsheet1_123
+  - first:
+      213: -652491908504433452
+    second: supermetroidsheet1_124
+  - first:
+      213: -2226311855480413667
+    second: supermetroidsheet1_125
+  - first:
+      213: -2468864010502577433
+    second: supermetroidsheet1_126
+  - first:
+      213: -2180270524141993693
+    second: supermetroidsheet1_127
+  - first:
+      213: 7614515117577925305
+    second: supermetroidsheet1_128
+  - first:
+      213: 1628744028608204883
+    second: supermetroidsheet1_129
+  - first:
+      213: 3425968794722149336
+    second: supermetroidsheet1_130
+  - first:
+      213: 1160382125671456203
+    second: supermetroidsheet1_131
+  - first:
+      213: -1433548243607315930
+    second: supermetroidsheet1_132
+  - first:
+      213: 7896528672992811811
+    second: supermetroidsheet1_133
+  - first:
+      213: -2455678742000527973
+    second: supermetroidsheet1_134
+  - first:
+      213: -348586950416680275
+    second: supermetroidsheet1_135
+  - first:
+      213: 377449662078372161
+    second: supermetroidsheet1_136
+  - first:
+      213: 2750192773548959637
+    second: supermetroidsheet1_137
+  - first:
+      213: 5339262699415086836
+    second: supermetroidsheet1_138
+  - first:
+      213: -5574404191598139947
+    second: supermetroidsheet1_139
+  - first:
+      213: -5301789447627815797
+    second: supermetroidsheet1_140
+  - first:
+      213: -6242795391119245355
+    second: supermetroidsheet1_141
+  - first:
+      213: 6485603111995857853
+    second: supermetroidsheet1_142
+  - first:
+      213: 1948864286687898026
+    second: supermetroidsheet1_143
+  - first:
+      213: 6194096829535366175
+    second: supermetroidsheet1_144
+  - first:
+      213: 7361207129875627512
+    second: supermetroidsheet1_145
+  - first:
+      213: 3773175616258804788
+    second: supermetroidsheet1_146
+  - first:
+      213: 1434382374591298560
+    second: supermetroidsheet1_147
+  - first:
+      213: -3496315570990846028
+    second: supermetroidsheet1_148
+  - first:
+      213: 4996829470013121627
+    second: supermetroidsheet1_149
+  - first:
+      213: 1194254153333570625
+    second: supermetroidsheet1_150
+  - first:
+      213: -5464404626662299653
+    second: supermetroidsheet1_151
+  - first:
+      213: 3794370375787829397
+    second: supermetroidsheet1_152
+  - first:
+      213: -2942069434419285738
+    second: supermetroidsheet1_153
+  - first:
+      213: -1755505550445361742
+    second: supermetroidsheet1_154
+  - first:
+      213: -3019180562222302477
+    second: supermetroidsheet1_155
+  - first:
+      213: -7231271550674097883
+    second: supermetroidsheet1_156
+  - first:
+      213: 4961117925500801598
+    second: supermetroidsheet1_157
+  - first:
+      213: -8060234153023307603
+    second: supermetroidsheet1_158
+  - first:
+      213: 3433121732484677384
+    second: supermetroidsheet1_159
+  - first:
+      213: 6562970996715544017
+    second: supermetroidsheet1_160
+  - first:
+      213: -3637637567031876406
+    second: supermetroidsheet1_161
+  - first:
+      213: -5189587624410246226
+    second: supermetroidsheet1_162
+  - first:
+      213: 9131569168598819908
+    second: supermetroidsheet1_163
+  - first:
+      213: 110940251871684272
+    second: supermetroidsheet1_164
+  - first:
+      213: 6129822984535807169
+    second: supermetroidsheet1_165
+  - first:
+      213: -5466111942643135318
+    second: supermetroidsheet1_166
+  - first:
+      213: -5982728432082154401
+    second: supermetroidsheet1_167
+  - first:
+      213: 4299599894105535001
+    second: supermetroidsheet1_168
+  - first:
+      213: -8783603659837596076
+    second: supermetroidsheet1_169
+  - first:
+      213: -528479945499789077
+    second: supermetroidsheet1_170
+  - first:
+      213: -6566431429406289863
+    second: supermetroidsheet1_171
+  - first:
+      213: -3525160150291100069
+    second: supermetroidsheet1_172
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermetroidsheet1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 429
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fa76c2bb2097db0800000000000000
+      internalID: -4793797325432049871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 429
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3080049335e0d90800000000000000
+      internalID: -7129669654728408102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 429
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9b6b80feb68ab70800000000000000
+      internalID: 8910490537140074935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 429
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed929c45558f6f0800000000000000
+      internalID: -650676323514458493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 429
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb15ed4a13c3d50800000000000000
+      internalID: 6718299328304234063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 429
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef282014628fd7bf0800000000000000
+      internalID: -324830754917678338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 429
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d208ad9c4e05baf00800000000000000
+      internalID: 1129085075155746861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 429
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3f2e410d8d952c0800000000000000
+      internalID: -4442281169209068570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 429
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6035dd3aadf92690800000000000000
+      internalID: -7626285586351574932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 429
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc2a01eacbec3d10800000000000000
+      internalID: 2106817982294011101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 429
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52d34da3cc15eaf0800000000000000
+      internalID: -367856167809723814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 429
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d582a4a55c5654270800000000000000
+      internalID: 8234099392014592093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_12
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 429
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6335b464daf0f8310800000000000000
+      internalID: 1409362445273355062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 429
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0868614a7777aca30800000000000000
+      internalID: 4236329755233126016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_14
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 429
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c098aa54fb8bd0800000000000000
+      internalID: -2626737287428257610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_15
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 429
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4cd23efd5699d50800000000000000
+      internalID: 6744533929227568358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 429
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb3afa12d0aa35e0800000000000000
+      internalID: -1929052666118652977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_17
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 429
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4ec72adba7af240800000000000000
+      internalID: 4826304905574409445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_18
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 429
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafba433400fe3820800000000000000
+      internalID: 2900019110904250283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_19
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 429
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a186e91c2d0880800000000000000
+      internalID: -8643203620101053395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_20
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 429
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e462ecd0969ad2700800000000000000
+      internalID: 517255800885749326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_21
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 429
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4fbb77875762660800000000000000
+      internalID: 7360699801248986280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 370
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0909d0ad97bb40800000000000000
+      internalID: 5456002787744222559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 370
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b737317e3ec1840b0800000000000000
+      internalID: -5744309559551102085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 370
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e0af84927861290800000000000000
+      internalID: -7919994283296682362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 370
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc0d1deaf60c7c0800000000000000
+      internalID: -4053116867998331993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 370
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ed4ca4442f2fe00800000000000000
+      internalID: 1077189636021083786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 370
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3856323712487eed0800000000000000
+      internalID: -2384792198468901501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 370
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c8a1d7dec317370800000000000000
+      internalID: 8318496977433824389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 370
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ceea6caee4f6000800000000000000
+      internalID: 31330492677549123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 370
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a139c9fe7b722b0800000000000000
+      internalID: -5609312571114710449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 370
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac0246025b0fa930800000000000000
+      internalID: 4156553428006472866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde97f1cbe3b752f0800000000000000
+      internalID: -984120168404246817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a1f047d9cd68e60800000000000000
+      internalID: 7964295559866423811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_34
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06af34404f23020800000000000000
+      internalID: 2320185057206755576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_35
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 370
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c346d7ce4c4110800000000000000
+      internalID: 1246457817075007726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 370
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035d795ecdce75160800000000000000
+      internalID: 7014335378141730096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_37
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 370
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc820302f747a8f0800000000000000
+      internalID: -529375326434587449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_38
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 370
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123fc6741aafbe2f0800000000000000
+      internalID: -942384126408985823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_39
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 370
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9132aa19ca47c8b10800000000000000
+      internalID: 1985089820290589465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_40
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 370
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa58cf46f527aa10800000000000000
+      internalID: 1920545505927518885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_41
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 370
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7e2ae2af48b9740800000000000000
+      internalID: 5159864008142153641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_42
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 370
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea0f8bdddf6f2c20800000000000000
+      internalID: 3183886460236270314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_43
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 370
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6181c8b48d7f4a90800000000000000
+      internalID: -7327500059719663252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 308
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8a4d10b37d25bd0800000000000000
+      internalID: -2642813382879303448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_45
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 308
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cc387e2c5b1a410800000000000000
+      internalID: 1486669200721431590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 308
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae10e834006d02e0800000000000000
+      internalID: -2157963075190251861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 315
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3cce854c8329d0800000000000000
+      internalID: -2800240312917934205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 316
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae89d032c78055630800000000000000
+      internalID: 3915044780325574890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 313
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a65959b97ede6d0800000000000000
+      internalID: -2959454724697003505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_50
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 308
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6645e70cc6121aea0800000000000000
+      internalID: -5863368488889985946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_51
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 308
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebeabd148bf2d840800000000000000
+      internalID: 5247533060693093358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_52
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 308
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ea372d895ba8b00800000000000000
+      internalID: 831676749173730872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 309
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c48e73cdbeb9970800000000000000
+      internalID: 8762856831042735242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_54
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 309
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c25bcad7e4e48a0800000000000000
+      internalID: -6319026925478794168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_55
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 306
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58f80b92b2a0c8d0800000000000000
+      internalID: -2828081677999736737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_56
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 306
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcda152d0141f2a20800000000000000
+      internalID: 3039670335978974667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_57
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 305
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4530dae75e06495f0800000000000000
+      internalID: -750868699074985132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_58
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 311
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f503e5a2eb1e6d4c0800000000000000
+      internalID: -4262971790388744097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_59
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 306
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6956e4566833de790800000000000000
+      internalID: -7499281152183736938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_60
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 306
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0024dd9fb4f4f7360800000000000000
+      internalID: 7169536319530287616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_61
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 311
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0730a45a47b56cef0800000000000000
+      internalID: -88282586139720848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_62
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 314
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a02dc259dce2d5d0800000000000000
+      internalID: -3039106380380430167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_63
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 306
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb12906f698afae0800000000000000
+      internalID: -1514747213202187333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_64
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 306
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e16059baeb1c510800000000000000
+      internalID: 1567743789450534542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_65
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 306
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26fd56ceb416190800000000000000
+      internalID: -7971006386775563550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_66
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 306
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817762115b9bb8a10800000000000000
+      internalID: 1912826654076860184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_67
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 306
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dcb629cfa2ddd00800000000000000
+      internalID: 999001956622781765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_68
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 306
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faf65840d9d99f90800000000000000
+      internalID: -6946281461652194572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 253
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3030c31680a2a90800000000000000
+      internalID: -7338043429135121481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_70
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 253
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7db854009c75f50800000000000000
+      internalID: 6870180759580956579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_71
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 253
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f883470dabfd6e0800000000000000
+      internalID: -1810523120713822366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 258
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabf0a05026633fe0800000000000000
+      internalID: -1210511585854817363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_73
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 261
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7f2c500f18858d0800000000000000
+      internalID: -2857391095677782092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 260
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e8ca47f3463f20800000000000000
+      internalID: 3401981297915650517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_75
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 253
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c24f495cf06d650800000000000000
+      internalID: 6257206073559886975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 253
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cc2cefb224f7b40800000000000000
+      internalID: 5440139631612054585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_77
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 253
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3718519d799e51a30800000000000000
+      internalID: 4185508267102142835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_78
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 254
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22833d7794d51420800000000000000
+      internalID: 2600218106982007342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_79
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 254
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada2f0b5696eec70800000000000000
+      internalID: 9002248590641507757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_80
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 251
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e36424be4b9aa0800000000000000
+      internalID: -6153237930260043609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_81
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 251
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f5557ed4cf54ea0800000000000000
+      internalID: -5889023526193242346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_82
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 250
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb740170799320ae0800000000000000
+      internalID: -1584640798059640898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_83
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 258
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e77b13324893af30800000000000000
+      internalID: 4585676255685998568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_84
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 253
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b72ccb8c007f4e0800000000000000
+      internalID: -1948087451654128828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_85
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 253
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f7b224cb1538d40800000000000000
+      internalID: 5585397831875395459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_86
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 258
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4fcf10faf339c90800000000000000
+      internalID: -7164312561331145531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_87
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 262
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f3383460813490800000000000000
+      internalID: -7768286714309381971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_88
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 256
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89aba73d1da650e0800000000000000
+      internalID: -2281445820216923761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_89
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 257
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08a91b670b973eb0800000000000000
+      internalID: -4740149626620237813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_90
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 256
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0643ab18a54aaca0800000000000000
+      internalID: -6004910564824627698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_91
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 248
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55124a5a8241236a0800000000000000
+      internalID: -6471087549767737003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 180
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959ee38a572c77c00800000000000000
+      internalID: 898400461273360729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_93
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c17a6c554d33df0800000000000000
+      internalID: -201584093431391184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_94
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 180
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebef7b30e5fd050800000000000000
+      internalID: 5827479812905549397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 180
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfea18d1992605a90800000000000000
+      internalID: -7327248183967240453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_96
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 180
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d25e5c80b4a07e10800000000000000
+      internalID: 2193434096705622739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_97
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 180
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd0d6d0bb4442e40800000000000000
+      internalID: 5630701004294786517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_98
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 180
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3153d9e3dc29a260800000000000000
+      internalID: 7109262775453700411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_99
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 180
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d084eb258c8a80800000000000000
+      internalID: -8463243176172269381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 180
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7fd97e18c28a010800000000000000
+      internalID: 1200258237142529964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 180
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cff615b913df810800000000000000
+      internalID: 1800649969174051932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 180
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4fede7f3de27cf0800000000000000
+      internalID: -255881371839433553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_103
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 180
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52a76a487fdf2aa0800000000000000
+      internalID: -6183478055619026341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_104
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 180
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614bb21107cada480800000000000000
+      internalID: -8886256892407729130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_105
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 180
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0528aa009c30d0800000000000000
+      internalID: -3441717639772828064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_106
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 180
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0e018f4400ca70800000000000000
+      internalID: 8845074407669763306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_107
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 180
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfb9a92ccc449ac0800000000000000
+      internalID: -3849367341738901538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_108
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 180
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d09e23729764380800000000000000
+      internalID: -8987362797106426510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_109
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 180
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb4126ff6e8a21a0800000000000000
+      internalID: -6833492873059415072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_110
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 180
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5907b7b2d9b7660800000000000000
+      internalID: 7384668824084190680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_111
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 180
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20808c4efcfe9e900800000000000000
+      internalID: 714365692090517506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 123
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad463df759ceb6080800000000000000
+      internalID: -9192994087507893030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_113
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 123
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037b9fdfe67163f40800000000000000
+      internalID: 5707775343213524784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_114
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 123
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c874f9d97ec7fd0800000000000000
+      internalID: -2342743041971352523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_115
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 123
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6976c0046822905d0800000000000000
+      internalID: -3095905308844988522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_116
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 123
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ef29545d135500800000000000000
+      internalID: 383682641367394744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_117
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 123
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcde563f03e49100800000000000000
+      internalID: 113965545067306169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_118
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 123
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1180e342f741a9fd0800000000000000
+      internalID: -2334530920536733679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_119
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 123
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ad8b821db00fc20800000000000000
+      internalID: 3238101125038660203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_120
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 123
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a898b13ac394f30800000000000000
+      internalID: 4560242768928672263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 123
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523d61e5f6a97de00800000000000000
+      internalID: 1069493239634383653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_122
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 123
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9806a22ecc937ff00800000000000000
+      internalID: 1150451781946990729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_123
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 123
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123d0f9c4481ff940800000000000000
+      internalID: 5332007167554802465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_124
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 123
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcc6c6f012e1f6f0800000000000000
+      internalID: -652491908504433452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_125
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 123
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1269d6b92d8a11e0800000000000000
+      internalID: -2226311855480413667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_126
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 123
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26f375345dcbdd0800000000000000
+      internalID: -2468864010502577433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_127
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 123
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210346828f1eb1e0800000000000000
+      internalID: -2180270524141993693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_128
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 123
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2f210f7213ca960800000000000000
+      internalID: 7614515117577925305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_129
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 123
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3501b3780167a9610800000000000000
+      internalID: 1628744028608204883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_130
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 123
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3acfc977c7b8f20800000000000000
+      internalID: 3425968794722149336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_131
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 122
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1c5435618a1010800000000000000
+      internalID: 1160382125671456203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_132
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a966bb7730b1ce0800000000000000
+      internalID: -1433548243607315930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_133
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 68
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b5c609dfa169d60800000000000000
+      internalID: 7896528672992811811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_134
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 68
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959494e13dabedd0800000000000000
+      internalID: -2455678742000527973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 68
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daab317f302992bf0800000000000000
+      internalID: -348586950416680275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_136
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 68
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149c5c4c778fc3500800000000000000
+      internalID: 377449662078372161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_137
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 68
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5976b33a1c5aa2620800000000000000
+      internalID: 2750192773548959637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_138
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 95
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f62121f22fd81a40800000000000000
+      internalID: 5339262699415086836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_139
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 68
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d528551cecb3a2b0800000000000000
+      internalID: -5574404191598139947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_140
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 68
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ca3466924c66b0800000000000000
+      internalID: -5301789447627815797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_141
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 68
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df34e2eaa22d59a0800000000000000
+      internalID: -6242795391119245355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_142
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 68
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb5eac0bad710a50800000000000000
+      internalID: 6485603111995857853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_143
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 68
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa92a734eb1cb0b10800000000000000
+      internalID: 1948864286687898026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_144
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 68
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c24dcaf3ad5f550800000000000000
+      internalID: 6194096829535366175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_145
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 68
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd3f4e12e2482660800000000000000
+      internalID: 7361207129875627512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_146
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 68
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c854a5b330d5430800000000000000
+      internalID: 3773175616258804788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_147
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 68
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c78958b23f7e310800000000000000
+      internalID: 1434382374591298560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_148
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 68
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf6c6033879a7fc0800000000000000
+      internalID: -3496315570990846028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_149
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 68
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54e55bbded485540800000000000000
+      internalID: 4996829470013121627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_150
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 68
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c7bf433d7d29010800000000000000
+      internalID: 1194254153333570625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_151
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 68
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7eac691f88a24b0800000000000000
+      internalID: -5464404626662299653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_152
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 68
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598591bd0cf48a430800000000000000
+      internalID: 3794370375787829397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_153
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61177e8ef6bab27d0800000000000000
+      internalID: -2942069434419285738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_154
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 13
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b54a70c00133a7e0800000000000000
+      internalID: -1755505550445361742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_155
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fab9f36647b916d0800000000000000
+      internalID: -3019180562222302477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 13
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529aeab66dc55ab90800000000000000
+      internalID: -7231271550674097883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_157
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 13
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325c46d77e69d440800000000000000
+      internalID: 4961117925500801598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_158
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 13
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da003962ebb442090800000000000000
+      internalID: -8060234153023307603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_159
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f3c67b606e4af20800000000000000
+      internalID: 3433121732484677384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_160
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 13
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dddb62795b541b50800000000000000
+      internalID: 6562970996715544017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_161
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 15
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4e273e7e3848dc0800000000000000
+      internalID: -3637637567031876406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_162
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 15
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3934c1d81eaf7b0800000000000000
+      internalID: -5189587624410246226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_163
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 13
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444ed3817c9d9be70800000000000000
+      internalID: 9131569168598819908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_164
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 13
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6aa1042932a8100800000000000000
+      internalID: 110940251871684272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_165
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 13
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c41849f681811550800000000000000
+      internalID: 6129822984535807169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_166
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 13
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac4c3c16287424b0800000000000000
+      internalID: -5466111942643135318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_167
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 13
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c0d1a503419fca0800000000000000
+      internalID: -5982728432082154401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_168
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 13
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912b77cc25f3bab30800000000000000
+      internalID: 4299599894105535001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_169
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 13
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e1f87420f5a1680800000000000000
+      internalID: -8783603659837596076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_170
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 13
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be831912a467aa8f0800000000000000
+      internalID: -528479945499789077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_171
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 13
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9301748c7695fd4a0800000000000000
+      internalID: -6566431429406289863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermetroidsheet1_172
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 13
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e4989358d141fc0800000000000000
+      internalID: -3525160150291100069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
