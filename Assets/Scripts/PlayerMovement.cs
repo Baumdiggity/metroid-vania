@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     CapsuleCollider2D _cap;
     
     [SerializeField]
-    float jumpForce = 20;
+    float jumpForce = 30;
     [SerializeField]
     float moveSpeed = 10f;
 
@@ -18,10 +18,10 @@ public class PlayerMovement : MonoBehaviour
     float vert = 0, hor = 0;
     bool jump = false;
 
-    float maxSpeed = 1000f;
-    float minSpeed = -1000f;
+    float maxSpeed = 100f;
+    float minSpeed = -100f;
 
-    Vector2 movement = Vector2.zero;
+    float movement = 0;
     int direction = 0;
     bool isRight = true;
 
@@ -46,7 +46,7 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         //Set delta's waiting for input
-        movement = Vector2.zero;
+        movement = 0;
         direction = 0;
         grounded = false;
 
@@ -70,13 +70,13 @@ public class PlayerMovement : MonoBehaviour
                 if (hor > 0)
                 {
                     direction = 1; //diagup right
-                    movement = transform.right * moveSpeed;
+                    movement = moveSpeed;
                     isRight = true;
                 }
                 else if (hor < 0)
                 {
                     direction = 7; //diag up left
-                    movement = -transform.right * moveSpeed;
+                    movement = -moveSpeed;
                     isRight = false;
                 }
                 else
@@ -89,13 +89,13 @@ public class PlayerMovement : MonoBehaviour
                 if (hor > 0)
                 {
                     direction = 3; //diag down right
-                    movement = transform.right * moveSpeed;
+                    movement = moveSpeed;
                     isRight = true;
                 }
                 else if (hor < 0)
                 {
                     direction = 5; //diag down left
-                    movement = -transform.right * moveSpeed;
+                    movement = -moveSpeed;
                     isRight = false;
                 }
                 else
@@ -110,13 +110,13 @@ public class PlayerMovement : MonoBehaviour
             if (hor > 0)
             {
                 direction = 2; //right
-                movement = transform.right * moveSpeed;
+                movement = moveSpeed;
                 isRight = true;
             }
             else if (hor < 0)
             {
                 direction = 6; //left
-                movement = -transform.right * moveSpeed;
+                movement = -moveSpeed;
                 isRight = false;
             }
         }
@@ -125,7 +125,6 @@ public class PlayerMovement : MonoBehaviour
         _anim.SetInteger("FireDirection", direction);
         _anim.SetBool("FaceRight", isRight);
         _anim.SetBool("OnGround", grounded);
-        _body.velocity = movement;
 
         if (jump)
         {
@@ -134,6 +133,7 @@ public class PlayerMovement : MonoBehaviour
             jump = false;
             _anim.SetTrigger("Jump");
         }
-        _body.velocity = new Vector2(Mathf.Clamp(_body.velocity.x, minSpeed, maxSpeed), Mathf.Clamp(_body.velocity.y, minSpeed, maxSpeed));
+        _body.velocity = new Vector2(Mathf.Clamp(movement, minSpeed, maxSpeed), Mathf.Clamp(_body.velocity.y, minSpeed, maxSpeed));
+        //Debug.Log(_body.velocity);
     }
 }
